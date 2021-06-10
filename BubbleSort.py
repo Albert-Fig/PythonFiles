@@ -1,6 +1,3 @@
-__name__ = '__main__'
-
-
 def bubble_sort(arr):
 
     length = len(arr)
